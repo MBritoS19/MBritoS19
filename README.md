@@ -1,11 +1,10 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Matheus B. 👋
 
 **`Full Stack Developer | Data Analyst | IT Solutions Specialist`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](www.linkedin.com/in/matheus-b-sampaio)
 [![GitHub](https://img.shields.io/github/followers/[your-user]?label=Follow&style=social)](https://github.com/MBritoS19/MBritoS19)
-**`![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=[your-user].[your-repo])`**
-
+<!-- ![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=[your-user].[your-repo]) -->
 ---
 
 ## 🛠️ Skills & Tools
