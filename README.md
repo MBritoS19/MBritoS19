@@ -2,9 +2,9 @@
 
 **`Full Stack Developer | Data Analyst | IT Solutions Specialist`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/[your-linkedin]/)
-[![GitHub](https://img.shields.io/github/followers/[your-user]?label=Follow&style=social)](https://github.com/[your-user])
-![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=[your-user].[your-repo])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](www.linkedin.com/in/matheus-b-sampaio)
+[![GitHub](https://img.shields.io/github/followers/[your-user]?label=Follow&style=social)](https://github.com/MBritoS19/MBritoS19)
+**`![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=[your-user].[your-repo])`**
 
 ---
 
