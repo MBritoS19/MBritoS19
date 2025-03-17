@@ -31,7 +31,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MBritoS19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
----
+<!-- ---
 ## 🚀 Featured Projects
 
 | Project | Technologies | Status | Link |
@@ -39,7 +39,7 @@
 | **Academic Management System** | Java, React, MySQL | ✅ Completed | [Repo](#) |
 | **E-commerce Payment API** | Node.js, PostgreSQL | 🚧 In Progress | [Demo](#) |
 | **Real-Time Sales Analytics** | Python, Pandas, Power BI | 📊 Active | [Report](#) |
-
+-->
 ---
 
 ## 💼 Professional Experience
@@ -56,18 +56,19 @@
 
 ## 📚 Education & Certifications
 - **Bachelor’s in Systems Development** (Ongoing)  
-  *[University Name]*  
-- **Scrum Foundation Professional Certificate (SFPC)**  
-  *CertiProf, 2023*
+  *IFSP - Federal Institute of Sao Paulo*  
 
+<!-- - **Scrum Foundation Professional Certificate (SFPC)**  
+  *CertiProf, 2023*
+-->
 ---
 
 ## 📫 Let’s Connect!
-- **LinkedIn:** [linkedin.com/in/[your-profile]](https://www.linkedin.com/in/[your-profile]/)
-- **Email:** [your.email@domain.com](mailto:your.email@domain.com)
-- **Upwork:** [My Freelance Profile](#)
+- **LinkedIn:** [linkedin.com/in/[matheus-b-sampaio]](https://www.linkedin.com/in/matheus-b-sampaio/)
+- **Email:** [britosampaio6@gmail.com](mailto:britosampaio6@gmail.com)
+<!-- - **Upwork:** [My Freelance Profile](#) -->
 
 ---
 
 **✨ "Code is logical poetry. Problem-solving is my favorite art form."**  
-*— [Your Name]*
+*— Matheus B.*
