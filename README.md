@@ -10,18 +10,18 @@
 ## 🛠️ Skills & Tools
 
 ### **Languages & Frameworks**
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"}
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)]
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)]
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)]
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/pt)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/pt-BR/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)](https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16)
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white)](https://www.sap.com/brazil/index.html)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/)
 
 ---
 
