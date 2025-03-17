@@ -1,4 +1,4 @@
-# Hi, I'm Matheus B. 👋 (work in progress) (README em alteração)
+# Hi, I'm Matheus B. 👋
 
 **`Full Stack Developer | Data Analyst | IT Solutions Specialist`**
 
