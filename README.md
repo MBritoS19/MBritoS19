@@ -15,7 +15,7 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)]
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)]
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)]
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white){target="_blank"}]
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -27,8 +27,8 @@
 
 <div>
 <a href="https://github.com/MBritoS19">
-<img loading="lazy" height="168em" target="blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBritoS19&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="168em" target="blank" src="https://github-readme-stats.vercel.app/api?username=MBritoS19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBritoS19&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="168em" src="https://github-readme-stats.vercel.app/api?username=MBritoS19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!-- ---
