@@ -18,7 +18,7 @@ Possuo um histórico comprovado de otimização de processos, alcançando **melh
 
 ### **Linguagens & Frameworks**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/pt)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/pt)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/pt-BR/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
