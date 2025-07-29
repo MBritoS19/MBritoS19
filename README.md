@@ -54,31 +54,31 @@ Possuo um histórico comprovado de otimização de processos, alcançando **melh
 ### **Assistente de TI** @ Kimberlink (Essere Group)
 * **Período:** Fevereiro/2025 – Atualmente
 * Gerenciamento de mais de **200 tickets mensais** utilizando o sistema SAP.
-* [cite_start]Responsável pela análise e resolução de problemas na infraestrutura de TI e sistema SAP[cite: 24, 25].
-* [cite_start]Participação ativa no desenvolvimento e implementação de melhorias de processos internos[cite: 25].
+* Responsável pela análise e resolução de problemas na infraestrutura de TI e sistema SAP.
+* Participação ativa no desenvolvimento e implementação de melhorias de processos internos.
 * Redução do tempo de resposta a chamados em **30%** através da automação de triagem.
 
 ### **Assistente de TI** @ GR Group
 * **Período:** Novembro/2022 – Fevereiro/2025
-* [cite_start]Análise e resolução de problemas em sistemas como eSolution, Guide e Omnibees[cite: 29].
-* [cite_start]Otimização da produtividade e **redução de 30%** no tempo médio de criação de relatórios via SQL Server[cite: 30].
-* [cite_start]Diminuição de **50%** no backlog de chamados através de análises de dados e resolução de erros[cite: 30].
+* Análise e resolução de problemas em sistemas como eSolution, Guide e Omnibees.
+* Otimização da produtividade e **redução de 30%** no tempo médio de criação de relatórios via SQL Server.
+* Diminuição de **50%** no backlog de chamados através de análises de dados e resolução de erros.
 
 ### **Instrutor Técnico** @ Prepara Cursos
 * **Período:** Fevereiro/2022 – Atualmente
-* [cite_start]Ensino de processos de montagem e manutenção de computadores, notebooks e redes residenciais para turmas rotativas de 15 alunos[cite: 22].
+* Ensino de processos de montagem e manutenção de computadores, notebooks e redes residenciais para turmas rotativas de 15 alunos.
 * Desenvolvimento de materiais de curso com **92% de aprovação** pelos alunos.
-* [cite_start]Criação de profissionais na área, consolidando conhecimentos em hardware, software e redes[cite: 22].
+* Criação de profissionais na área, consolidando conhecimentos em hardware, software e redes.
 
 ---
 
 ## 📚 Educação & Certificações
 
-* [cite_start]**Tecnólogo em Análise e Desenvolvimento de Sistemas** (Andamento) [cite: 15, 16, 17]
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** (Andamento)
     * *IFSP - Instituto Federal de São Paulo, Unidade Barretos*
-* [cite_start]**Técnico em Análise e Desenvolvimento de Sistemas** (2019-2022) [cite: 10, 11, 12]
+* **Técnico em Análise e Desenvolvimento de Sistemas** (2019-2022)
     * *ETEC José Carlos Seno Júnior*
-* [cite_start]**Técnico em Montagem e Manutenção de Periféricos** (2020-2022) [cite: 13, 14]
+* **Técnico em Montagem e Manutenção de Periféricos** (2020-2022)
     * *ETEC José Carlos Seno Júnior*
 
 ---
