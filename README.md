@@ -33,19 +33,19 @@ Possuo um histórico comprovado de otimização de processos, alcançando **melh
 <div>
 <a href="https://github.com/MBritoS19">
 <img loading="lazy" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBritoS19&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="168em" src="https://github-readme-stats.vercel.app/api?username=MBritoS19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!-- <img loading="lazy" height="168em" src="https://github-readme-stats.vercel.app/api?username=MBritoS19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Tecnologias | Link do Repositório | Status/Demo |
-|---------|-------------|---------------------|-------------|
-| **Sistema de Gestão Financeira Pessoal** | `React` `Node.js` `Express` `PostgreSQL` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-1) | [Demo ao Vivo](https://seunomedominiodeploy.com) (se houver) |
-| **API de Eventos e Inscrições** | `Java` `Spring Boot` `MySQL` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-2) | Em Desenvolvimento / [Postman Collection](https://linkparacolecaopostman) |
-| **Dashboard de Análise de Vendas** | `Python` `Pandas` `SQL Server` `Power BI` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-3) | [Link para o Relatório](https://linkparaorelatóriopbi) |
-| **Mini E-commerce** | `HTML` `CSS` `JavaScript` `PHP` `SQLite` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-4) | ✅ Concluído |
+| Projeto | Tecnologias | Link do Repositório |
+|---------|-------------|---------------------|
+| **Sistema de Gestão Financeira Pessoal** | `React` `Node.js` `Express` `PostgreSQL` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-1) |
+| **API de Eventos e Inscrições** | `Java` `Spring Boot` `MySQL` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-2) |
+| **Dashboard de Análise de Vendas** | `Python` `Pandas` `SQL Server` `Power BI` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-3) |
+| **Mini E-commerce** | `HTML` `CSS` `JavaScript` `PHP` `SQLite` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-4) |
 
 ---
 
