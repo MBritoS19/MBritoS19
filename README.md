@@ -36,7 +36,7 @@ Possuo um histórico comprovado de otimização de processos, alcançando **melh
 <!-- <img loading="lazy" height="168em" src="https://github-readme-stats.vercel.app/api?username=MBritoS19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
 
----
+<!--
 
 ## 🚀 Projetos em Destaque
 
@@ -47,7 +47,7 @@ Possuo um histórico comprovado de otimização de processos, alcançando **melh
 | **Dashboard de Análise de Vendas** | `Python` `Pandas` `SQL Server` `Power BI` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-3) |
 | **Mini E-commerce** | `HTML` `CSS` `JavaScript` `PHP` `SQLite` | [Link para o Repo](https://github.com/MBritoS19/nome-do-seu-projeto-4) |
 
----
+--- -->
 
 ## 💼 Experiência Profissional
 
