@@ -29,8 +29,3 @@ Conecto aplicações, APIs REST e bancos de dados para resolver problemas reais 
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/matheus-b-sampaio/) · [Instagram (negócios)](https://instagram.com/mbrito19) · [britosampaio6@gmail.com](mailto:britosampaio6@gmail.com)
-
-## Estatísticas do GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=MBritoS19&show_icons=true&hide_border=true&theme=transparent)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MBritoS19&layout=compact&hide_border=true&theme=transparent)

@@ -29,8 +29,3 @@ I connect applications, REST APIs and databases to solve real business problems,
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/matheus-b-sampaio/) · [Instagram (business)](https://instagram.com/mbrito19) · [britosampaio6@gmail.com](mailto:britosampaio6@gmail.com)
-
-## GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MBritoS19&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MBritoS19&layout=compact&hide_border=true&theme=transparent)
